@@ -1,0 +1,10 @@
+{
+  "id": 67388941,
+  "created_at": "2025-05-19T14:53:31.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["outstandR"]
+}
