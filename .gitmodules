@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/statisticshealtheconomics/statisticshealtheconomics.r-universe.dev
 	branch = HEAD
+[submodule "blendR"]
+	path = blendR
+	url = https://github.com/statisticshealtheconomics/blendR
 [submodule "outstandR"]
 	path = outstandR
 	url = https://github.com/statisticshealtheconomics/outstandR
