@@ -8,3 +8,7 @@
 [submodule "outstandR"]
 	path = outstandR
 	url = https://github.com/statisticshealtheconomics/outstandR
+[submodule "simcovariates"]
+	path = simcovariates
+	url = https://github.com/n8thangreen/simcovariates
+	registered = false
